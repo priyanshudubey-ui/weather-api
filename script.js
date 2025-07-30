@@ -1,6 +1,6 @@
 function getWeather() {
     // config.js
-export const API_KEY = '9b54dd1febcdab668577c7eac441728a';
+export const API_KEY = 'd23f31534ff81daacc9fdec650b9820d';
     const city = document.getElementById('city').value;
 
     if (!city) {
